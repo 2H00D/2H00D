@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zack aka H00D
 - 👀 I’m interested in music, tech, and gaming
-- 🌱 I’m currently learning python , linux, and ethical hacking
+- 🌱 I’m currently learning javascript, typescript, react, and alot more
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I suck at almost everything
 
